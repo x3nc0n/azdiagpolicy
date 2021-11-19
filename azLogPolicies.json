@@ -42,7 +42,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -194,7 +194,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -377,7 +377,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -560,7 +560,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -739,7 +739,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -926,7 +926,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -1078,7 +1078,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -1297,7 +1297,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -1484,7 +1484,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -1631,7 +1631,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -1818,7 +1818,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -2025,7 +2025,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -2207,7 +2207,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -2418,7 +2418,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -2601,7 +2601,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -2753,7 +2753,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -2936,7 +2936,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -3115,7 +3115,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -3294,7 +3294,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -3481,7 +3481,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -3664,7 +3664,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -3851,7 +3851,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -4003,7 +4003,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -4234,7 +4234,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -4417,7 +4417,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -4564,7 +4564,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -4747,7 +4747,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -4968,7 +4968,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -5151,7 +5151,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -5525,7 +5525,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -5676,7 +5676,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -5863,7 +5863,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -6042,7 +6042,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -6194,7 +6194,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -6373,7 +6373,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -6548,7 +6548,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -6700,7 +6700,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -6854,7 +6854,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -7037,7 +7037,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -7216,7 +7216,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -7367,7 +7367,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -7545,7 +7545,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -7696,7 +7696,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -7895,7 +7895,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -8061,7 +8061,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -8219,7 +8219,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -8373,7 +8373,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -8552,7 +8552,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -8755,7 +8755,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -8905,8 +8905,9 @@
                         }
                     },
                     "name": "Deploy-Diagnostics-MediaService"
-                },
-            {                
+                }
+            ]
+        },
         "initiatives": {
             "policySetDefinitions": [
                 {
@@ -8924,7 +8925,7 @@
                             },
                             "profileName": {
                                 "type": "String",
-                                "defaultValue": "setbypolicy",
+                                "defaultValue": "setByPolicy",
                                 "metadata": {
                                     "displayName": "Profile name",
                                     "description": "The diagnostic settings profile name"
@@ -10599,8 +10600,11 @@
                         ]
                     },
                     "name": "Deploy-Diagnostics-LogAnalytics"
-                },
-{    "resources": [
+                }
+            ]
+        }
+    },
+    "resources": [
         {
             "type": "Microsoft.Authorization/policyDefinitions",
             "name": "[variables('policies').policyDefinitions[copyIndex()].name]",

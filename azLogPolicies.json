@@ -10617,7 +10617,7 @@
         {
             "type": "Microsoft.Authorization/policySetDefinitions",
             "name": "[variables('initiatives').policySetDefinitions[copyIndex()].name]",
-            "apiVersion": "2019-09-01",
+            "apiVersion": "2021-09-01",
             "dependsOn": [
                 "policyDefinitionCopy"
             ],
